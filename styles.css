@@ -885,8 +885,3 @@ section {
     font-size: 0.98rem;
 }
 
-/* Remove timeline/tree styles if present */
-/* These were preventing the Education/Achievements from appearing */
-.timeline, .timeline-item, .timeline-marker, .timeline-content, .timeline-header {
-    /* display: none !important; */ /* Remove or comment out these if you want to use timeline in future */
-}
